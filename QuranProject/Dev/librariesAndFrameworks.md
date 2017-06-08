@@ -4,3 +4,4 @@
 ### UI Components
 - [Photonkit](http://photonkit.com/components/)
 - [sencha](http://examples.sencha.com/)
+- [jqwidgets](http://www.jqwidgets.com/react/)
